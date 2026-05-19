@@ -54,17 +54,28 @@ Place and connect the following components:
 - Set the parameters and run the simulation.  
 - Use the visualizer displays to measure:  
   - FWHM width of input and output pulses  
-  - FWHM width of optical spectra  
+  - FWHM width of optical spectra
+
+<img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/119dc4f9-827d-4729-8029-9992c8b8e00b" />
 
 ---
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
-
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
+## Graphical output 
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/53ce561a-9d62-4313-ab03-2ae59969e8ce" />
+
+## Theoretical Output 
+<img width="843" height="1280" alt="image" src="https://github.com/user-attachments/assets/62d46d61-2dbe-426a-99b4-d522b91f8f62" />
+<img width="1280" height="1133" alt="image" src="https://github.com/user-attachments/assets/b0e1b0e2-8314-4e82-a1fe-6a9dadde53b1" />
 
 
+
+## Result 
+Thus, the results are compared that are predicted by the linear system model of an optical fiber with the results of simulation.
